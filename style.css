@@ -2,8 +2,11 @@ body{
     background-color:black !important;
 
 }
+h1{
+    text-align: center !important;
+}
 .card{
-      text-align: center;
+      text-align: center !important;
     
 }
 .btn{
