@@ -1,0 +1,20 @@
+body{
+    background-color:black !important;
+
+}
+.card{
+      text-align: center;
+    
+}
+.btn{
+    width: auto !important;
+    text-align: center !important;
+    margin-left: 47% !important;
+}
+.image{
+    background-color:black!important;
+}
+.card-body{
+    background-color: black !important;
+
+}
